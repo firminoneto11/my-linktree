@@ -7,11 +7,8 @@ a {
     display: block  ;
     text-decoration: none;
     color: #393e46;
-    height: 50px;
     font-size: 2rem;
     text-align: center;
-
-    line-height: 50px;
 }
 
 a:hover {
@@ -19,20 +16,19 @@ a:hover {
 }
 
 #linkedin {
-    position: relative;
     margin-top: 1%;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     background-color: #eeeeee;
 
-    border: 3px solid #00adb5;
+    border: 2px solid #00adb5;
     border-radius: 5px
 }
 
 #linkedin:hover {
     background-color: #222831;
-    border: #eeeeee solid 3px;
+    border: #eeeeee solid 2px;
 }
 
 #instagram {
@@ -43,13 +39,13 @@ a:hover {
     margin-right: auto;
     background-color: #eeeeee;
 
-    border: 3px solid #00adb5;
+    border: 2px solid #00adb5;
     border-radius: 5px;
 }
 
 #instagram:hover {
     background-color: #222831;
-    border: #eeeeee solid 3px;
+    border: #eeeeee solid 2px;
 }
 
 #github {
@@ -60,11 +56,11 @@ a:hover {
     margin-right: auto;
     background-color: #eeeeee;
 
-    border: 3px solid #00adb5;
+    border: 2px solid #00adb5;
     border-radius: 5px;
 }
 
 #github:hover {
     background-color: #222831;
-    border: #eeeeee solid 3px;
+    border: #eeeeee solid 2px;
 }
