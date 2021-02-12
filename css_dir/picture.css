@@ -1,9 +1,32 @@
 
 #pic {
     display: block;
-    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    margin-top: 1%;
+    border: 1px solid #eeeeee;
     margin-left: auto;
     margin-right: auto;
+
+    margin-top: 1%;
+}
+
+div {
+    position: relative;
+    background-color: #393e46;
+    overflow: auto;
+}
+
+.text {
+    position: absolute;
+    display: block;
+    color: #eeeeee;
+    font-family: Helvetica;
+
+    top: 50%;
+    left: 62%;
+    transform: translate(-50%, -62%);
+}
+
+.title {
+    top: 65%;
 }
